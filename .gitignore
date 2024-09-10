@@ -1,0 +1,6 @@
+*.db
+*.py[cod]
+.web
+__pycache__/
+dist/
+reflex_carousel.egg-info/
